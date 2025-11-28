@@ -1,3 +1,9 @@
+NAME:SUSREE PATRO
+SEC:D
+LAB_SEC:D1
+CLASS ROLL NO:39
+LAB_ROLL_NO:20
+
 📘 Loan Default Prediction — ML Pipeline
 
 This project builds a machine learning system to predict whether a borrower will pay back a loan or default, using data from FinSecure, a peer-to-peer lending company. The goal is to help the loan approval team make faster, data-driven, and fair decisions.
